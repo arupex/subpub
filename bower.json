@@ -1,0 +1,27 @@
+{
+  "name": "subpub",
+  "description": "Simple Vanilla Event Subscriber/Publisher for both Browser / NodeJS",
+  "main": "index.js",
+  "authors": [
+    "dirwin517"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "subscribe",
+    "subscription",
+    "sub",
+    "pub",
+    "publish",
+    "publisher",
+    "event",
+    "event-driven"
+  ],
+  "homepage": "https://github.com/arupex/subpub",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

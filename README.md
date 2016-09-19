@@ -6,3 +6,7 @@ Simple Vanilla Event Subscriber/Publisher for both Browser / NodeJS
 #Install
 
     npm install subpub --save
+
+#Bower
+
+  bower install subpub2 --save
